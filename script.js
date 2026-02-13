@@ -1,5 +1,8 @@
 function firstWord(s) {
   // your code here
+    let str = n.trim().split(" ");
+    return str[0];
+
 }
 
 // Do not change the code below
